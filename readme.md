@@ -7,6 +7,20 @@ This project is a **Streamlit-based machine learning app** that uses a **Random 
 
 The model is trained on a penguin dataset (for example, the **Palmer Penguins dataset**), which contains information about different penguin species along with their physical attributes.
 
+### Table of Contents
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Project Structure](#project-structure)
+4. [Dependencies](#dependencies)
+5. [Installation](#installation)
+6. [How the App Works](#how-the-app-works)
+7. [Code Breakdown](#code-breakdown)
+8. [Testing](#testing)
+9. [Future Improvements](#future-improvements)
+10. [License](#license)
+11. [App Screenshot](#app-screenshot)
+
 ### Features
 
 - **Data visualization**: Visualizes the relationship between features like bill length and body mass using a scatter plot.
@@ -151,3 +165,10 @@ pytest tests/test_data_processing.py
 ### License
 
 This project is licensed under the MIT License.
+
+### App Screenshot
+
+![App Screenshot](data/raw/website.png)
+
+
+
